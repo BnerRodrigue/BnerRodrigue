@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img alt="Boas Vindas! Você está acessando o perfil de abnerrodrigue" src="https://raw.githubusercontent.com/AbnerRodrigue/AbnerRodrigue/main/bem-vindo.png"/>
+  <img alt="Boas Vindas! Você está acessando o perfil de abnerrodrigue" src="https://raw.githubusercontent.com/BnerRodrigue/BnerRodrigue/main/bem-vindo.png"/>
 </div>
 
 <h3 align="center">Olá! Sou o Abner Rodrigues, é um prazer ter você aqui.</h3>
